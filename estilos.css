@@ -1,0 +1,36 @@
+img{
+  border-color: red 10px;
+  border-radius: 40px;
+  width: 250px;
+  height: 250px;
+}
+
+body {
+
+  background-color: lightskyblue;
+
+}
+
+h1 {
+
+  color: firebrick;
+  
+}
+h2 {
+
+  color: tomato;
+  
+}
+p {
+  color: darkmagenta; 
+}
+/*font-family: 'Gloock', serif;
+font-family: 'Shantell Sans', cursive;
+font-family: 'Tilt Warp', cursive*/
+
+fieldset{
+font-family: 'Shantell Sans', cursive;
+}
+ul{
+  font-family: 'havalim', arial;
+  }
